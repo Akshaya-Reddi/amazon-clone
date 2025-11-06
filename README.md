@@ -1,2 +1,2 @@
 # amazon-clone
-I've build a clone of Amazon homepage
+I've built a clone of Amazon homepage
